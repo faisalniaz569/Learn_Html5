@@ -18,12 +18,9 @@
 
 <b>	Defines bold text
 
-<base>	Specifies the base URL/target for all relative URLs in a document
+<base>	Specifies the base URL/target for all relative URLs in a document.
 
-<basefont>	Not supported in HTML5. Use CSS instead.
-Specifies a default color, size, and font for all text in a document
-
-<bdi>	Isolates a part of text that might be formatted in a different direction from other text outside it
+<bdi>	Isolates a part of text that might be formatted in a different direction from other text outside it.
 
 <bdo>	Overrides the current text direction
 
@@ -61,8 +58,6 @@ Specifies a default color, size, and font for all text in a document
 
 <dialog>	Defines a dialog box or window
 
-<dir>	Not supported in HTML5. Use <ul> instead. Defines a directory list
-
 <div>	Defines a section in a document
 
 <dl>	Defines a description list
@@ -82,7 +77,6 @@ Specifies a default color, size, and font for all text in a document
 <footer>	Defines a footer for a document or section
 
 <form>	Defines an HTML form for user input
-
 
 <h1> to <h6>	Defines HTML headings
 
