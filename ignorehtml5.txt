@@ -1,0 +1,25 @@
+<applet>	Not supported in HTML5. Use <embed> or <object> instead. Defines an embedded applet.
+
+<acronym>	Not supported in HTML5. Use <abbr> instead. Defines an acronym.
+
+<big>	Not supported in HTML5. Use CSS instead. Defines big text.
+
+<center>	Not supported in HTML5. Use CSS instead. Defines centered text.
+
+<font>	Not supported in HTML5. Use CSS instead. Defines font, color, and size for text.
+
+<frame>	Not supported in HTML5. Defines a window (a frame) in a frameset.
+
+<frameset>	Not supported in HTML5. Defines a set of frames.
+
+<noframes>	Not supported in HTML5. Defines an alternate content for users that do not support frames
+
+<noscript>	Defines an alternate content for users that do not support client-side scripts.
+
+<strike>	Not supported in HTML5. Use <del> or <s> instead. Defines strikethrough text.
+
+<tt>	Not supported in HTML5. Use CSS instead. Defines teletype text.
+
+<basefont>	Not supported in HTML5. Use CSS instead. Specifies a default color, size, and font for all text in a document.
+
+<dir>	Not supported in HTML5. Use <ul> instead. Defines a directory list.

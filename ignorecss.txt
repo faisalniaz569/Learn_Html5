@@ -1,0 +1,7 @@
+align	Not supported in HTML 5 and css 3.
+
+bgcolor	Not supported in HTML 5.
+
+border	Not supported in HTML 5.
+
+color	Not supported in HTML 5
